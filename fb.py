@@ -177,7 +177,7 @@ def pilih():
                     else:
                         if zedd == '5':
                             os.system('rm -rf login.txt')
-                            os.system('xdg-open https://www.youtube.com/nganunymous')
+                            os.system('xdg-open https://www.youtube.com/channel/UCm44L0CGNh74uc3uti_L3BQ')
                             keluar()
                         else:
                             if zedd == '0':
